@@ -1,0 +1,7 @@
+{
+  "name": "AASI Secretariat - Tata Usaha & Agenda Syariah",
+  "description": "Sistem Informasi Tata Usaha & Manajemen Agenda Rapat Sekretariat Eksekutif Asosiasi Asuransi Syariah Indonesia (AASI)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
